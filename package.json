@@ -1,0 +1,22 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "Game of life in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlrodney/game-of-life-js.git"
+  },
+  "author": "James Rodney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlrodney/game-of-life-js/issues"
+  },
+  "homepage": "https://github.com/jlrodney/game-of-life-js#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
